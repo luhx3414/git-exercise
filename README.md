@@ -1,6 +1,6 @@
 # Production-Ready Data Science Code Examples
 
-**Code examples from the Production-Ready Data Science book by Khuyen Tran.**
+**Code examples from the Production-Ready Data Science book by Khuyen Tran.把混乱的 Jupyter Notebook 变成生产级代码的结构化教程。14章覆盖 Git、模块化、测试、CI/CD、日志、数据验证——全部是你从数据科学转工程最需要的技能**
 
 Enhance your data science workflow with scalable, production-ready practices through hands-on examples.
 
